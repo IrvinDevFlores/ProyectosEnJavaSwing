@@ -1,0 +1,1 @@
+localhost;hambus_database;root;1234;

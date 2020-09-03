@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="HambusFinalProyecto">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/HambusFinalProyecto.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
