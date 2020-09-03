@@ -1,0 +1,11 @@
+Codigo;Nombre
+RE;Real Espana;
+PLA;Platense;
+JUT;Juticalpa;
+UPN;Lobos;
+VID;Vida;
+MOT;Zopes;
+HDP;El Progreso;
+MAR;Pichetio;
+RSO;Suciedad;
+OL;Olimpia;

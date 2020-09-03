@@ -1,0 +1,1 @@
+﻿IdCliente;NoCedula;Nombres;Apellidos;EstadoCivil;Genero;FechaNac;Email;Direccion;
