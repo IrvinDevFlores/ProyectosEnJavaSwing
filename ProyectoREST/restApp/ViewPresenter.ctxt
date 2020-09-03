@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ViewPresenter
+comment1.params=
+comment1.target=ViewPresenter()
+comment2.params=
+comment2.target=java.util.ArrayList\ GetViews()
+comment3.params=
+comment3.target=void\ ConfigViews()
+comment4.params=panel
+comment4.target=void\ HideView(javax.swing.JPanel)
+comment5.params=route
+comment5.target=IView\ ShowView(Views)
+numComments=6

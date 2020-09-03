@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Fecha
+comment1.params=dia\ mes\ y
+comment1.target=Fecha(int,\ int,\ int)
+numComments=2

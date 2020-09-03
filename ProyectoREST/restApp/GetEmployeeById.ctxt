@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=GetEmployeeById
+comment0.text=\r\n\r\n\ @author\ Ariel\r\n
+comment1.params=identidad
+comment1.target=java.lang.String\ Query(java.lang.String)
+numComments=2

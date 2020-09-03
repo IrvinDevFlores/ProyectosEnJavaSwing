@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=UpdateService
+comment0.text=\r\n\r\n\ @author\ Ariel\r\n
+comment1.params=
+comment1.target=UpdateService()
+comment2.params=user\ username
+comment2.target=boolean\ Update(Empleado,\ java.lang.String)
+comment3.params=username\ estado
+comment3.target=boolean\ UpdateEstado(java.lang.String,\ boolean)
+numComments=4

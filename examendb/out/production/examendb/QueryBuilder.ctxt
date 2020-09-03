@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=QueryBuilder
+comment1.params=builder
+comment1.target=QueryBuilder(QueryBuilder.Builder)
+comment2.params=
+comment2.target=java.lang.String\ MakeQuery()
+numComments=3

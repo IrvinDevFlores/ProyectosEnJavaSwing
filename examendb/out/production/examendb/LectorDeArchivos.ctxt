@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=LectorDeArchivos
+comment1.params=nombArch
+comment1.target=LectorDeArchivos(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ ToString()
+comment3.params=ultima
+comment3.target=void\ guardarstring(java.lang.String)
+comment4.params=lineas
+comment4.target=void\ guardararreglo(java.lang.String[])
+comment5.params=arch\ buslinea
+comment5.target=boolean\ bus_linea(java.lang.String,\ java.lang.String)
+numComments=6

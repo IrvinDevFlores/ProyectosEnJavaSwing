@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Reporte2
+comment1.params=reportName
+comment1.target=Reporte2(java.lang.String)
+comment2.params=n\ parameters\ b
+comment2.target=Reporte2(java.lang.String,\ java.util.Map,\ boolean)
+comment3.params=Reporte2\ parametros
+comment3.target=Reporte2(java.lang.String,\ java.util.Map)
+comment4.params=fac\ i
+comment4.target=Reporte2(java.lang.String,\ int)
+numComments=5

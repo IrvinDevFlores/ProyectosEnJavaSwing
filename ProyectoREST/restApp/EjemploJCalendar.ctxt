@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=EjemploJCalendar
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=f
+comment2.target=void\ Disable(boolean)
+comment3.params=
+comment3.target=EjemploJCalendar()
+comment4.params=
+comment4.target=void\ setFrame()
+comment5.params=isHide
+comment5.target=void\ Hide(boolean)
+comment6.params=fecha
+comment6.target=void\ ChangeDate(Fecha)
+comment7.params=x\ y
+comment7.target=void\ SetPosition(int,\ int)
+comment8.params=
+comment8.target=java.lang.String\ GetDate()
+comment9.params=evt
+comment9.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=10

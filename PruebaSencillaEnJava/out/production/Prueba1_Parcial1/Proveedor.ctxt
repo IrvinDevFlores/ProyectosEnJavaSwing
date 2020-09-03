@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Proveedor
+comment1.params=idProve\ nombre
+comment1.target=Proveedor(int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ GetItemName()
+comment3.params=
+comment3.target=int\ GetItemId()
+numComments=4

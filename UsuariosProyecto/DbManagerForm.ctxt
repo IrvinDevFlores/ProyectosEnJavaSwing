@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=DbManagerForm
+comment0.text=\r\n\r\n\ @author\ Ariel\r\n
+comment1.params=
+comment1.target=DbManagerForm()
+comment1.text=\r\n\ Creates\ new\ form\ DbManagerForm\r\n
+comment2.params=
+comment2.target=void\ initComponents()
+comment2.text=\r\n\ This\ method\ is\ called\ from\ within\ the\ constructor\ to\ initialize\ the\ form.\r\n\ WARNING\:\ Do\ NOT\ modify\ this\ code.\ The\ content\ of\ this\ method\ is\ always\r\n\ regenerated\ by\ the\ Form\ Editor.\r\n
+numComments=3

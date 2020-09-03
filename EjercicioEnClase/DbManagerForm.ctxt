@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=DbManagerForm
+comment1.params=config
+comment1.target=DbManagerForm(Config)
+comment2.params=
+comment2.target=void\ initComponents()
+comment3.params=evt
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=evt
+comment4.target=void\ GuardarButtonActionPerformed(java.awt.event.ActionEvent)
+numComments=5

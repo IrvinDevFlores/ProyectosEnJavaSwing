@@ -1,0 +1,3 @@
+ariel;1234;Activo;
+yogi;1234;Activo;
+gerson;1324;Inactivo;

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Conexion
+comment1.params=
+comment1.target=Conexion()
+comment2.params=
+comment2.target=boolean\ ExistConnection()
+comment3.params=
+comment3.target=java.sql.Connection\ getConexion()
+numComments=4

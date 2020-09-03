@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=IWindowMessage
+comment0.text=\r\n\r\n\ @author\ Ariel\r\n
+comment1.params=msj
+comment1.target=void\ W(java.lang.String)
+numComments=2

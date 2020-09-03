@@ -1,0 +1,1 @@
+C:\DbRestore\BitacoraDeUsuario;usuariosdb;root;1234;

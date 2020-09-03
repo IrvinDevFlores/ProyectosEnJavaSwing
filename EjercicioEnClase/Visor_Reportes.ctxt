@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Visor_Reportes
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=jrv\ str
+comment2.target=Visor_Reportes(net.sf.jasperreports.view.JRViewer,\ java.lang.String)
+comment3.params=windowevent
+comment3.target=void\ windowOpened(java.awt.event.WindowEvent)
+comment4.params=e
+comment4.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment5.params=
+comment5.target=javax.swing.JMenuBar\ menu()
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=7

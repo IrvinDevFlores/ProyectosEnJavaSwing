@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ManageSupplyView
+comment1.params=
+comment1.target=ManageSupplyView()
+comment2.params=
+comment2.target=void\ initComponents()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\r\n\ @param\ args\ the\ command\ line\ arguments\r\n
+comment4.params=
+comment4.target=void\ run()
+numComments=5

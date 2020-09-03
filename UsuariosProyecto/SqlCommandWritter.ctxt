@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SqlCommandWritter
+comment1.params=con\ sql
+comment1.target=java.sql.ResultSet\ Select(java.sql.Connection,\ java.lang.String)
+comment2.params=sql
+comment2.target=boolean\ WriteCommand(java.lang.String)
+numComments=3

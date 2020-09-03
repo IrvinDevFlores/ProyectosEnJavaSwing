@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=ServicioVerificacion
+comment1.params=user
+comment1.target=boolean\ ValidarCredenciales(Empleado)
+numComments=2

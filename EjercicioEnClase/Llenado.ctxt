@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Llenado
+comment1.params=sql\ cmb\ cmbi
+comment1.target=void\ llenar_combo(java.lang.String,\ javax.swing.JComboBox,\ javax.swing.JComboBox)
+numComments=2

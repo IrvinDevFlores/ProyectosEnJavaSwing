@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=InputComponent
+comment1.params=builder
+comment1.target=InputComponent(InputComponent.Builder)
+comment2.params=
+comment2.target=java.lang.String\ GetInnerText()
+comment3.params=
+comment3.target=javax.swing.JComponent\ GetInputInstance()
+numComments=4

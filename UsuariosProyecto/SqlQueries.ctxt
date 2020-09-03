@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=SqlQueries
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ SqlQueries\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=java.lang.String\ Registrar()
+comment2.params=table
+comment2.target=java.lang.String\ Get(java.lang.String)
+numComments=3

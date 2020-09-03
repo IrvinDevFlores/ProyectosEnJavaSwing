@@ -1,0 +1,1 @@
+localhost;recudb;root;1234;

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Form
+comment1.params=
+comment1.target=Form()
+comment1.text=\r\n\ Creates\ new\ form\ Form\r\n
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment11.params=
+comment11.target=void\ run()
+comment2.params=
+comment2.target=void\ SaveData()
+comment3.params=
+comment3.target=void\ Modificar()
+comment4.params=
+comment4.target=void\ ActualizarData()
+comment5.params=
+comment5.target=void\ Limpiar()
+comment6.params=
+comment6.target=boolean\ CleanCombobox()
+comment7.params=evt
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment8.params=
+comment8.target=void\ ClearCombobox()
+comment9.params=
+comment9.target=void\ initComponents()
+numComments=12

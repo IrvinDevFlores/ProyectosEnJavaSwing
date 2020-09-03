@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=EmpleadoRepositorio
+comment0.text=\r\n\r\n\ @author\ Ariel\r\n
+comment1.params=
+comment1.target=EmpleadoRepositorio()
+comment2.params=user
+comment2.target=int\ Insert(Empleado)
+comment3.params=user
+comment3.target=int\ Update(Empleado)
+comment4.params=user
+comment4.target=int\ UpdateEstado(Empleado)
+comment5.params=
+comment5.target=ArregloEmpleados\ Select()
+comment6.params=tipo
+comment6.target=ArregloEmpleados\ Select(java.lang.String)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
