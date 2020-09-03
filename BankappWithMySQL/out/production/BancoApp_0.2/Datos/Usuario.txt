@@ -1,0 +1,6 @@
+Codigo;Usuario;Clave;Estado;
+1;Admin;12345;Habilitado;
+2;Cajero1;1234;Habilitado;
+3;Cajero2;123;Habilitado;
+4;Cajero3;123;Habilitado;
+5;Cajero5;12;Habilitado;

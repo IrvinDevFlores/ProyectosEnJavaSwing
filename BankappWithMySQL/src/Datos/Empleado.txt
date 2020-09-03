@@ -1,0 +1,5 @@
+IdEmpleado;Nombre;Apellidos;Cedula;TipoUsuario;
+1;asdf;adf;adf;asf;Cajero;
+2;Romen;Pedro;Pedro;0101050540;Cajero;
+4;GErson;Pedro;Pedro;20202;;
+3;asdf;asdf;asdf;asdf;Cajero;

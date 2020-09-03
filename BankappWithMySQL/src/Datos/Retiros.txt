@@ -1,0 +1,1 @@
+﻿IdRetiro;NoCuentaAfectada;NombreCliente;TipoCuenta;FechaCreacion;SaldoAnterio;Importe;SaldoNuevo;

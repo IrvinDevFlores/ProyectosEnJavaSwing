@@ -1,0 +1,5 @@
+Codigo;Nombre
+11;Crear Transaciones-Ver Transacciones
+12;Crear Clientes-Ver Clientes
+13;Accesos
+14;CrearEmpleados

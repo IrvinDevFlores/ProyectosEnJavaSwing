@@ -1,0 +1,1 @@
+﻿IdTransacion;CuentaAfectada;FechaOperacion;TipoOperacion;Descripcion;CodigoOperacion;NombreCliente;SaldoAnterior;Importe;SaldoNuevo;NombreAgencia;NombreBanco;
